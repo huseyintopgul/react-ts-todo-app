@@ -2,7 +2,7 @@
 🌐 React-Typescript
 </h1>
 <p align="center">
-React, Typescript, CSS3
+React, Typescript, CSS3, Vite
 </p>
 
 <p align="center">
