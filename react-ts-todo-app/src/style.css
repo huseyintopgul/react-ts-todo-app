@@ -1,0 +1,39 @@
+.mainCard {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 30px auto;
+}
+
+.mainCardInput {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding: 10px 5px;
+}
+
+.mainCardBtn {
+    background: #118f7a;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+.mainCardBtn:hover {
+    cursor: pointer;
+    background: #16c1a4;
+}
+
+/* body area */
+.taskBody {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 350px;
+    border: 1px solid #118f7a;;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
