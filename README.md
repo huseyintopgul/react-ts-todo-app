@@ -96,6 +96,6 @@ $ npm run build // this will build the server code to es5 js codes and generate 
 
 ## BUGs or comments
 
-[Create new Issues](https://github.com/huseyintopgul/pos-app/issues) (preferred)
+[Create new Issues](https://github.com/huseyintopgul/react-ts-todo-app.git) (preferred)
 
 Email Me: huseyintopgul1@gmail.com (welcome, say hi)
